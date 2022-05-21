@@ -51,11 +51,11 @@ configuraciones en su modulo principal app.js
  ./node_modules/.bin/sequelize migration:create --name 
 
 - Generamos /config/config.json, de aqui sequelize obtendra los datos para poder hacer conexion a la base de datos
-(aqui va imagen del config)
+![Untitled](img/config.PNG)
 
 - Generamos la migracion con el comando:
 ./node_modules/.bin/sequelize db:migrate
-(aqui imagen de las tablas)
+![Untitled](img/tablas.PNG)
 
 ---
 ## Pruebas PostMan
