@@ -55,7 +55,7 @@ configuraciones en su modulo principal app.js
 
 - Generamos la migracion con el comando:
 ./node_modules/.bin/sequelize db:migrate
-![Untitled](img/tablas.PNG)
+![Untitled](img/tablas1.PNG)
 
 ---
 ## Pruebas PostMan
