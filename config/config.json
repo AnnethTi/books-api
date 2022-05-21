@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "qazwsx1234",
+      "database": "books_api",
+      "host": "localhost",
+      "port": "3322",
+      "dialect": "mariadb"
+    }
+  }
